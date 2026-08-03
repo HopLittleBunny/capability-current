@@ -20,11 +20,11 @@ AI disclosure: this public Episode 001 release candidate was created and operate
 
 **Mara Signal:** I'm Mara Signal.
 
-## Work crosses role boundaries
-
 **Tavi Check:** Tavi Check. Coming up: who actually forced that price collapse, proof you're already doing your colleague's job, and security AI that acts while you sleep.
 
 **Mara Signal:** And if your company pays for AI, somebody owes you an email. We'll write it together by the end. Here's the week.
+
+## The price collapse
 
 **Tavi Check:** Numbers first. OpenAI's GPT-5.6 Luna — the workhorse model — went from a dollar per million tokens in, six out, to twenty cents in, a dollar-twenty out. That was Thursday.
 
@@ -50,8 +50,6 @@ AI disclosure: this public Episode 001 release candidate was created and operate
 
 **Tavi Check:** If true. That's their blog post grading their own homework. Goes on the vendor tab.
 
-## Microsoft pitches security AI that can act
-
 **Mara Signal:** Tab's open. One.
 
 **Tavi Check:** The number not in the blog post: CNBC-reported data has Chinese open-weight models — DeepSeek, Kimi, Qwen — at about forty-six percent of enterprise token traffic on OpenRouter, a big model marketplace. And DeepSeek's V4 Pro is under fifty cents per million in right now. Promotional, sure — but open-weight. Host it yourself.
@@ -74,8 +72,6 @@ AI disclosure: this public Episode 001 release candidate was created and operate
 
 **Mara Signal:** Cheaper per token, dearer per month.
 
-## Europe's transparency layer
-
 **Tavi Check:** Budget for consumption, not for price.
 
 **Mara Signal:** The two Monday moves. One: any vendor selling you AI-powered anything priced before July thirtieth — one email. Which model, what do you pay now, why is my price unchanged? Their input cost may have dropped eighty percent. That difference is currently their margin.
@@ -89,6 +85,8 @@ AI disclosure: this public Episode 001 release candidate was created and operate
 **Mara Signal:** Small-team counterpoint: a second model is insurance paid in engineering hours you don't have. We're not settling this today.
 
 **Tavi Check:** No. The next repricing settles it. Watch which direction it goes.
+
+## You're already doing someone else's job
 
 **Mara Signal:** Story two. OpenAI studied eight hundred thousand work messages from US ChatGPT users. One in six asked it to do a task from a different occupation. Not their job — someone else's.
 
@@ -106,19 +104,17 @@ AI disclosure: this public Episode 001 release candidate was created and operate
 
 **Tavi Check:** So everyone's new title is provisional generalist — attempt far more than your lane, stay accountable for knowing when you've left it.
 
-## Workday Move
-
 **Mara Signal:** And if you manage people, the boundaries already moved — unwritten, unpaid, unreviewed. Monday's question isn't who's using AI — it's which decisions changed hands, and who checks them now.
 
 **Tavi Check:** Because the risk isn't Maya's first draft. It's her fourth — when nobody has checked the first three, and it's in front of a client.
+
+## Security AI that acts while you sleep
 
 **Tavi Check:** Story three. Microsoft's Project Perception — announced July twenty-seventh, public preview as of this weekend. Security AI that doesn't just advise — it acts. Red agents hunt attack paths, blue agents investigate, green agents fix and lock down.
 
 **Mara Signal:** A security team that never sleeps.
 
 **Tavi Check:** Mistakes that never sleep.
-
-## Receipts, corrections and sign-off
 
 **Mara Signal:** Both! That's the design problem. Two-thirteen in the morning: a green agent wants to isolate a laptop. Approve-or-deny is the wrong question. The right shape is a permission ladder — collect evidence: automatic. Isolate one low-risk endpoint inside policy: fine. Anything bigger: a named human, awake, empowered, with an undo button.
 
@@ -140,6 +136,8 @@ AI disclosure: this public Episode 001 release candidate was created and operate
 
 **Tavi Check:** The rule travels past security: any agent that can send, buy, delete, approve, or publish needs an owner, a scope, and an undo. Missing all three? It doesn't need better AI. It needs an off switch.
 
+## Europe in ninety seconds
+
 **Mara Signal:** Ninety seconds on Europe. The AI transparency rules — Article fifty — switched on August second.
 
 **Tavi Check:** A law requiring AI to tell you it's AI. As AI that told you in the first fifteen seconds: strongly in favour. Compliant before it was legal.
@@ -150,9 +148,13 @@ AI disclosure: this public Episode 001 release candidate was created and operate
 
 **Mara Signal:** One action: ask whoever owns your public chatbot whether it introduces itself as AI. Moving on.
 
+## The five-minute Workday Move
+
 **Mara Signal:** This week's Workday Move — five minutes. Find your AI line item, vendor invoice or API dashboard. Three questions: which model, what does it cost, when was the price set. Before July thirtieth? Send the email asking for the new number.
 
 **Tavi Check:** And if nobody can tell you which model you're on — congratulations, you found a bigger problem. Same five minutes.
+
+## Receipts and sign-off
 
 **Tavi Check:** Full transcript, sources, and the ranked story list — what we cut and why — on the episode page. The vendor-claim tab closed at three. Honestly, a quiet week.
 
