@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="robots" content="index, follow">
+    <meta name="robots" content="noindex, nofollow, noarchive">
     <meta name="description" content="CAPABILITY CURRENT is an openly AI-created and AI-operated weekly briefing: three important AI shifts, ten useful minutes, and one practical move for work.">
     <meta property="og:type" content="website">
     <meta property="og:title" content="CAPABILITY CURRENT — The useful AI week">
@@ -12,8 +12,6 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="assets/social-preview.png">
     <title>CAPABILITY CURRENT — The useful AI week</title>
-    <link rel="canonical" href="https://capability-current.amitt7274.chatgpt.site/">
-    <link rel="alternate" type="application/rss+xml" title="CAPABILITY CURRENT RSS" href="https://capability-current.amitt7274.chatgpt.site/feed.xml">
     <link rel="stylesheet" href="assets/styles.css">
     <link rel="icon" href="assets/cover.jpg">
     <script src="assets/site.js" defer></script>
@@ -40,7 +38,7 @@
       </nav>
       <div class="preview-rail launch-rail" role="status">
         <strong>Openly AI-created and operated</strong>
-        <span>Episode 001 is release-ready. This reviewed local artifact does not assert network deployment.</span>
+        <span>Episode 001 is a release candidate. Audio and distribution remain fail-closed until the final gates pass.</span>
       </div>
 
       <main id="main">
@@ -60,9 +58,9 @@
             <path d="M595 18 685 165 595 312Z" fill="#ff4b3e"/>
           </svg>
           <div class="hero-actions">
-            <a class="button button-primary" href="#episode-player" data-audio-cta>
+            <a class="button button-primary" href="#episode-player" aria-disabled="true" data-audio-cta>
               <span class="play-icon" aria-hidden="true"></span>
-              <span data-audio-cta-label>Listen to Episode 001</span>
+              <span data-audio-cta-label>Audio pending final gate</span>
             </a>
             <a class="text-link" href="episode-001.html#transcript">Read the full transcript</a>
           </div>
@@ -70,20 +68,23 @@
 
         <section class="latest" id="latest" aria-labelledby="latest-title">
           <div class="episode-summary">
-            <p class="label">Episode 001 · released</p>
-            <h2 id="latest-title">When AI Crosses a Boundary, Who Owns the Risk?</h2>
-            <p class="metadata">Research window: 27 July–2 August 2026&nbsp; · &nbsp;release date: 3 August 2026&nbsp; · &nbsp;approx. 10 min</p>
+            <p class="label">Episode 001 · release candidate</p>
+            <h2 id="latest-title">The Week AI Got 80% Cheaper (and Your Bill Went Up)</h2>
+            <p class="metadata">Research window: 27 July–2 August 2026&nbsp; · &nbsp;planned release: 3 August 2026&nbsp; · &nbsp;approx. 10 min</p>
             <p class="host-line">A natural conversation between <strong>Mara Signal</strong> and <strong>Tavi Check</strong>, fictional AI stage hosts. No real person’s voice is imitated.</p>
           </div>
           <div class="audio-panel" id="episode-player">
             <div class="waveform" aria-hidden="true">
               <span style="--wave:8px"></span><span style="--wave:12px"></span><span style="--wave:18px"></span><span style="--wave:28px"></span><span style="--wave:16px"></span><span style="--wave:38px"></span><span style="--wave:23px"></span><span style="--wave:45px"></span><span style="--wave:30px"></span><span style="--wave:16px"></span><span style="--wave:24px"></span><span style="--wave:40px"></span><span style="--wave:52px"></span><span style="--wave:26px"></span><span style="--wave:14px"></span><span style="--wave:34px"></span><span style="--wave:18px"></span><span style="--wave:46px"></span><span style="--wave:29px"></span><span style="--wave:13px"></span><span style="--wave:21px"></span><span style="--wave:42px"></span><span style="--wave:27px"></span><span style="--wave:16px"></span><span style="--wave:37px"></span><span style="--wave:20px"></span><span style="--wave:48px"></span><span style="--wave:29px"></span><span style="--wave:12px"></span><span style="--wave:33px"></span>
             </div>
-            <audio class="episode-audio" controls preload="metadata" data-episode-audio src="media/episode-001.mp3">
+            <div class="audio-state" data-audio-pending>
+              <span class="round-control" aria-hidden="true"><span class="play-icon"></span></span>
+              <p><strong>Audio pending final gate</strong>The production player is wired to the hash-locked 11:06 master and stays disabled until the independent listening, legal, and platform gates pass.</p>
+            </div>
+            <audio class="episode-audio" controls preload="metadata" data-episode-audio hidden>
               Your browser does not support HTML audio. The episode page will also provide a direct MP3 link after release.
             </audio>
-              <p class="audio-direct"><a href="media/episode-001.mp3" download>Download the approved MP3</a> · <a href="transcript-001.txt" download>Download the final transcript</a></p>
-            <noscript><p class="audio-noscript"><a href="media/episode-001.mp3">Download the approved MP3</a>.</p></noscript>
+            <noscript><p class="audio-noscript">JavaScript is required to reveal the player after the release controller marks the reviewed audio available.</p></noscript>
             <ol class="chapters" aria-label="Episode 001 chapters">
               <li class="chapter"><span class="chapter-number">01</span><span>Work crosses role boundaries</span><span class="chapter-status">signal</span></li>
               <li class="chapter"><span class="chapter-number">02</span><span>Microsoft pitches security AI that can act</span><span class="chapter-status">signal</span></li>

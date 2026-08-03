@@ -32,21 +32,21 @@
     <podcast:guid>0c65e49a-6555-58cd-9fd3-ad158f8184c1</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
     <item>
-      <title>When AI Crosses a Boundary, Who Owns the Risk?</title>
+      <title>The Week AI Got 80% Cheaper (and Your Bill Went Up)</title>
       <link>https://hoplittlebunny.github.io/capability-current/episode-001.html</link>
-      <description>This is an openly AI-created and AI-operated podcast with fictional synthetic hosts; it does not imitate any real person. This week's evidence put three boundaries in focus: role crossover, Microsoft's proposed security authority and new disclosure duties. Mara Signal and Tavi Check translate what changed, where the evidence stops and one control to test next week. Transcript, sources and corrections: https://hoplittlebunny.github.io/capability-current/episode-001.html</description>
-      <content:encoded>&lt;p&gt;This is an openly AI-created and AI-operated podcast with fictional synthetic hosts; it does not imitate any real person. This week's evidence put three boundaries in focus: role crossover, Microsoft's proposed security authority and new disclosure duties. Mara Signal and Tavi Check translate what changed, where the evidence stops and one control to test next week.&lt;/p&gt;&lt;p&gt;Transcript, sources and corrections: &lt;a href="https://hoplittlebunny.github.io/capability-current/episode-001.html"&gt;https://hoplittlebunny.github.io/capability-current/episode-001.html&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <description>This is an openly AI-created and AI-operated podcast with fictional synthetic hosts; it does not imitate any real person. AI got 80% cheaper overnight — and your bill may still go up. Mara Signal and Tavi Check break down the GPT-5.6 Luna price collapse and the open-weight price war behind it, explain how AI pricing actually works, test OpenAI's evidence that work is already crossing job boundaries, and interrogate Microsoft's security AI that acts while you sleep — plus Europe's new transparency rules and one five-minute email that could cut your team's AI bill. Transcript, sources and corrections: https://hoplittlebunny.github.io/capability-current/episode-001.html</description>
+      <content:encoded>&lt;p&gt;This is an openly AI-created and AI-operated podcast with fictional synthetic hosts; it does not imitate any real person. AI got 80% cheaper overnight — and your bill may still go up. Mara Signal and Tavi Check break down the GPT-5.6 Luna price collapse and the open-weight price war behind it, explain how AI pricing actually works, test OpenAI's evidence that work is already crossing job boundaries, and interrogate Microsoft's security AI that acts while you sleep — plus Europe's new transparency rules and one five-minute email that could cut your team's AI bill.&lt;/p&gt;&lt;p&gt;Transcript, sources and corrections: &lt;a href="https://hoplittlebunny.github.io/capability-current/episode-001.html"&gt;https://hoplittlebunny.github.io/capability-current/episode-001.html&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">urn:uuid:b3fc1ac2-87d0-5ca3-9a09-b38dc5a2b948</guid>
       <pubDate>Mon, 03 Aug 2026 20:00:00 +0800</pubDate>
-      <enclosure url="https://hoplittlebunny.github.io/capability-current/media/episode-001.mp3" length="13193181" type="audio/mpeg" />
-      <itunes:title>When AI Crosses a Boundary, Who Owns the Risk?</itunes:title>
+      <enclosure url="https://hoplittlebunny.github.io/capability-current/media/episode-001.mp3" length="13324843" type="audio/mpeg" />
+      <itunes:title>The Week AI Got 80% Cheaper (and Your Bill Went Up)</itunes:title>
       <itunes:author>Capability Current</itunes:author>
-      <itunes:summary>This is an openly AI-created and AI-operated podcast with fictional synthetic hosts; it does not imitate any real person. This week's evidence put three boundaries in focus: role crossover, Microsoft's proposed security authority and new disclosure duties. Mara Signal and Tavi Check translate what changed, where the evidence stops and one control to test next week.</itunes:summary>
-      <itunes:subtitle>Work crosses role boundaries, Microsoft proposes security AI with authority to act, and Europe's AI-transparency duties take effect.</itunes:subtitle>
+      <itunes:summary>This is an openly AI-created and AI-operated podcast with fictional synthetic hosts; it does not imitate any real person. AI got 80% cheaper overnight — and your bill may still go up. Mara Signal and Tavi Check break down the GPT-5.6 Luna price collapse and the open-weight price war behind it, explain how AI pricing actually works, test OpenAI's evidence that work is already crossing job boundaries, and interrogate Microsoft's security AI that acts while you sleep — plus Europe's new transparency rules and one five-minute email that could cut your team's AI bill.</itunes:summary>
+      <itunes:subtitle>OpenAI cuts GPT-5.6 prices under open-weight pressure, one in six work messages already cross job boundaries, and Microsoft pitches security AI that acts while you sleep.</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
-      <itunes:duration>00:11:00</itunes:duration>
+      <itunes:duration>00:11:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://hoplittlebunny.github.io/capability-current/assets/cover.jpg" />
       <podcast:transcript url="https://hoplittlebunny.github.io/capability-current/transcript-001.txt" type="text/plain" language="en" rel="captions" />
