@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <title>Capability Current</title>
-    <link>https://capability-current.amitt7274.chatgpt.site/</link>
+    <link>https://hoplittlebunny.github.io/capability-current/</link>
     <description>This is an openly AI-created and AI-operated podcast with fictional synthetic hosts; it does not imitate any real person. Three AI shifts. Ten useful minutes. What changes at work next week.</description>
     <language>en</language>
     <copyright>© 2026 HopLittleBunny</copyright>
     <lastBuildDate>Mon, 03 Aug 2026 20:00:00 +0800</lastBuildDate>
     <generator>CAPABILITY CURRENT deterministic offline feed builder</generator>
-    <atom:link href="https://capability-current.amitt7274.chatgpt.site/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hoplittlebunny.github.io/capability-current/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Capability Current</itunes:author>
     <itunes:summary>This is an openly AI-created and AI-operated podcast with fictional synthetic hosts; it does not imitate any real person. Three AI shifts. Ten useful minutes. What changes at work next week.</itunes:summary>
     <itunes:subtitle>Three AI shifts. Ten useful minutes. What changes at work next week.</itunes:subtitle>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://capability-current.amitt7274.chatgpt.site/assets/cover.jpg" />
+    <itunes:image href="https://hoplittlebunny.github.io/capability-current/assets/cover.jpg" />
     <itunes:owner>
       <itunes:name>HopLittleBunny</itunes:name>
       <itunes:email>amitt7274@gmail.com</itunes:email>
@@ -24,21 +24,21 @@
     </itunes:category>
     <itunes:category text="Technology" />
     <image>
-      <url>https://capability-current.amitt7274.chatgpt.site/assets/cover.jpg</url>
+      <url>https://hoplittlebunny.github.io/capability-current/assets/cover.jpg</url>
       <title>Capability Current</title>
-      <link>https://capability-current.amitt7274.chatgpt.site/</link>
+      <link>https://hoplittlebunny.github.io/capability-current/</link>
     </image>
     <podcast:locked owner="amitt7274@gmail.com">yes</podcast:locked>
     <podcast:guid>0c65e49a-6555-58cd-9fd3-ad158f8184c1</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
     <item>
       <title>When AI Crosses a Boundary, Who Owns the Risk?</title>
-      <link>https://capability-current.amitt7274.chatgpt.site/episode-001.html</link>
-      <description>This is an openly AI-created and AI-operated podcast with fictional synthetic hosts; it does not imitate any real person. This week's evidence put three boundaries in focus: role crossover, Microsoft's proposed security authority and new disclosure duties. Mara Signal and Tavi Check translate what changed, where the evidence stops and one control to test next week. Transcript, sources and corrections: https://capability-current.amitt7274.chatgpt.site/episode-001.html</description>
-      <content:encoded>&lt;p&gt;This is an openly AI-created and AI-operated podcast with fictional synthetic hosts; it does not imitate any real person. This week's evidence put three boundaries in focus: role crossover, Microsoft's proposed security authority and new disclosure duties. Mara Signal and Tavi Check translate what changed, where the evidence stops and one control to test next week.&lt;/p&gt;&lt;p&gt;Transcript, sources and corrections: &lt;a href="https://capability-current.amitt7274.chatgpt.site/episode-001.html"&gt;https://capability-current.amitt7274.chatgpt.site/episode-001.html&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <link>https://hoplittlebunny.github.io/capability-current/episode-001.html</link>
+      <description>This is an openly AI-created and AI-operated podcast with fictional synthetic hosts; it does not imitate any real person. This week's evidence put three boundaries in focus: role crossover, Microsoft's proposed security authority and new disclosure duties. Mara Signal and Tavi Check translate what changed, where the evidence stops and one control to test next week. Transcript, sources and corrections: https://hoplittlebunny.github.io/capability-current/episode-001.html</description>
+      <content:encoded>&lt;p&gt;This is an openly AI-created and AI-operated podcast with fictional synthetic hosts; it does not imitate any real person. This week's evidence put three boundaries in focus: role crossover, Microsoft's proposed security authority and new disclosure duties. Mara Signal and Tavi Check translate what changed, where the evidence stops and one control to test next week.&lt;/p&gt;&lt;p&gt;Transcript, sources and corrections: &lt;a href="https://hoplittlebunny.github.io/capability-current/episode-001.html"&gt;https://hoplittlebunny.github.io/capability-current/episode-001.html&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">urn:uuid:b3fc1ac2-87d0-5ca3-9a09-b38dc5a2b948</guid>
       <pubDate>Mon, 03 Aug 2026 20:00:00 +0800</pubDate>
-      <enclosure url="https://capability-current.amitt7274.chatgpt.site/media/episode-001.mp3" length="13193181" type="audio/mpeg" />
+      <enclosure url="https://hoplittlebunny.github.io/capability-current/media/episode-001.mp3" length="13193181" type="audio/mpeg" />
       <itunes:title>When AI Crosses a Boundary, Who Owns the Risk?</itunes:title>
       <itunes:author>Capability Current</itunes:author>
       <itunes:summary>This is an openly AI-created and AI-operated podcast with fictional synthetic hosts; it does not imitate any real person. This week's evidence put three boundaries in focus: role crossover, Microsoft's proposed security authority and new disclosure duties. Mara Signal and Tavi Check translate what changed, where the evidence stops and one control to test next week.</itunes:summary>
@@ -48,8 +48,8 @@
       <itunes:episode>1</itunes:episode>
       <itunes:duration>00:11:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://capability-current.amitt7274.chatgpt.site/assets/cover.jpg" />
-      <podcast:transcript url="https://capability-current.amitt7274.chatgpt.site/transcript-001.txt" type="text/plain" language="en" rel="captions" />
+      <itunes:image href="https://hoplittlebunny.github.io/capability-current/assets/cover.jpg" />
+      <podcast:transcript url="https://hoplittlebunny.github.io/capability-current/transcript-001.txt" type="text/plain" language="en" rel="captions" />
       <podcast:person role="host" group="cast">Mara Signal</podcast:person>
       <podcast:person role="host" group="cast">Tavi Check</podcast:person>
     </item>
