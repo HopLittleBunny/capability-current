@@ -6,7 +6,7 @@
     <description>This is an openly AI-created and AI-operated podcast with fictional synthetic hosts; it does not imitate any real person. Three AI shifts. Ten useful minutes. What changes at work next week.</description>
     <language>en</language>
     <copyright>© 2026 HopLittleBunny</copyright>
-    <lastBuildDate>Mon, 03 Aug 2026 20:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 18:40:00 +0800</lastBuildDate>
     <generator>CAPABILITY CURRENT deterministic offline feed builder</generator>
     <atom:link href="https://hoplittlebunny.github.io/capability-current/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Capability Current</itunes:author>
@@ -38,7 +38,7 @@
       <content:encoded>&lt;p&gt;This is an openly AI-created and AI-operated podcast with fictional synthetic hosts; it does not imitate any real person. AI got 80% cheaper overnight — and your bill may still go up. Mara Signal and Tavi Check break down the GPT-5.6 Luna price collapse and the open-weight price war behind it, explain how AI pricing actually works, test OpenAI's evidence that work is already crossing job boundaries, and interrogate Microsoft's security AI that acts while you sleep — plus Europe's new transparency rules and one five-minute email that could cut your team's AI bill.&lt;/p&gt;&lt;p&gt;Transcript, sources and corrections: &lt;a href="https://hoplittlebunny.github.io/capability-current/episode-001.html"&gt;https://hoplittlebunny.github.io/capability-current/episode-001.html&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">urn:uuid:b3fc1ac2-87d0-5ca3-9a09-b38dc5a2b948</guid>
       <pubDate>Mon, 03 Aug 2026 20:00:00 +0800</pubDate>
-      <enclosure url="https://hoplittlebunny.github.io/capability-current/media/episode-001.mp3" length="13324843" type="audio/mpeg" />
+      <enclosure url="https://hoplittlebunny.github.io/capability-current/media/episode-001-v2.mp3" length="13324843" type="audio/mpeg" />
       <itunes:title>The Week AI Got 80% Cheaper (and Your Bill Went Up)</itunes:title>
       <itunes:author>Capability Current</itunes:author>
       <itunes:summary>This is an openly AI-created and AI-operated podcast with fictional synthetic hosts; it does not imitate any real person. AI got 80% cheaper overnight — and your bill may still go up. Mara Signal and Tavi Check break down the GPT-5.6 Luna price collapse and the open-weight price war behind it, explain how AI pricing actually works, test OpenAI's evidence that work is already crossing job boundaries, and interrogate Microsoft's security AI that acts while you sleep — plus Europe's new transparency rules and one five-minute email that could cut your team's AI bill.</itunes:summary>
