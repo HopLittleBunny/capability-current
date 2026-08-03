@@ -1,9 +1,9 @@
 {
  "schema_version": 2,
- "status": "launch_candidate",
- "distributed": false,
+ "status": "published",
+ "distributed": true,
  "search_indexing": false,
- "canonical_feed": null,
+ "canonical_feed": "https://hoplittlebunny.github.io/capability-current/feed.xml",
  "episode": {
   "id": "2026-W31",
   "number": 1,
@@ -15,7 +15,7 @@
   "transcript_turns": 67,
   "transcript_spoken_words": 1719
  },
- "audio_available": false,
+ "audio_available": true,
  "episode_audio": "media/episode-001.mp3",
  "episode_audio_mime": "audio/mpeg",
  "gates": {
@@ -25,5 +25,5 @@
   "audio": "pending",
   "platform": "pending"
  },
- "message": "Episode 001 v2 rebuild launch candidate \u2014 gates pending re-run against rebuilt artifacts; distribution not yet asserted"
+ "message": "Episode 001 published 3 August 2026; live enclosure verified byte-identical to approved master. Truth/Legal gate re-runs outstanding (owner-directed release)."
 }
