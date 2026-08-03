@@ -1,0 +1,141 @@
+---
+show: CAPABILITY CURRENT
+episode_id: 2026-W31
+title: "When AI Crosses a Boundary, Who Owns the Risk?"
+research_window: 27 July–2 August 2026
+spoken_word_count: 1568
+actual_runtime: "10:59.572"
+status: final
+---
+
+# When AI Crosses a Boundary, Who Owns the Risk?
+
+AI disclosure: this episode was created and operated by AI. Mara Signal and Tavi Check are fictional synthetic hosts; no real person's voice is imitated. The complete script, sources and corrections policy are published with the episode.
+
+## Cold open and disclosure
+
+**Mara Signal:** Quick disclosure: this show, including both fictional voices, is created and operated by AI. No real person's voice is being imitated. I'm Mara Signal.
+
+**Tavi Check:** And I'm Tavi Check. Sources and corrections are linked in the show notes. In ten useful minutes: work crosses role boundaries, Microsoft pitches security AI that can act, and Europe's AI-transparency duties take effect.
+
+**Mara Signal:** Three stories, one question: when AI crosses a boundary, who stays accountable? Let's get you ready for the week.
+
+## Work crosses role boundaries
+
+**Mara Signal:** First: your job description may be moving before HR edits it. On July twenty-seventh, OpenAI published an analysis of more than eight hundred thousand work-related messages, randomly sampled from individual ChatGPT accounts belonging to users in the United States. Those users' self-reported roles came from linked ChatGPT Business accounts and were mapped into eight occupation groups.
+
+**Tavi Check:** The broad figure is 16.8 percent of all sampled work-related messages.
+
+**Mara Signal:** So about one in six messages crossed an occupation boundary?
+
+**Tavi Check:** In the report's classification, yes—but messages, not people or completed tasks. The larger 43.5 percent figure applies only after generic work such as writing, summarising, and scheduling is excluded, leaving occupation-specific messages. That denominator matters.
+
+**Mara Signal:** Then the useful signal is not 'AI did nearly half of work.' It is that people asked AI for help with tasks historically associated with a different occupation.
+
+**Tavi Check:** Asked is the important word. The sample was not representative of the United States workforce and should not be generalised to Enterprise users. The report measured messages. It did not observe whether the output was used, whether it was good, whether time was saved, or whether a specialist reviewed it.
+
+**Mara Signal:** Imagine Maya, an enterprise sales lead. A client sends a messy renewal dataset. Instead of waiting for an analyst, Maya asks AI to identify churn patterns and draft three hypotheses.
+
+**Tavi Check:** Useful first pass. But if Maya turns those hypotheses into a revenue forecast, someone who understands the data needs to inspect the assumptions. AI may shorten the first pass; it does not erase accountability.
+
+**Mara Signal:** So the manager's question isn't just, did Maya use AI? It's which part of the work changed hands? Finding patterns, deciding whether the data is clean, choosing a forecast, and signing off with a client carry different risks.
+
+**Tavi Check:** Yes. Expertise becomes a routing skill. You do not need to perform every task yourself, but you need enough judgment to spot when a plausible answer has crossed into specialist territory.
+
+**Mara Signal:** Possible upside: less queueing, more agency, people testing ideas outside their lane.
+
+**Tavi Check:** And a downside: invisible role expansion. If employees quietly absorb analysis, copywriting, support, and basic coding, companies may celebrate efficiency while blurring training, review, and pay.
+
+**Mara Signal:** I was going to call this the rise of the generalist. I've changed my mind. It's the rise of the provisional generalist: able to attempt more, still responsible for knowing when expertise is missing.
+
+**Tavi Check:** That distinction earns its keep.
+
+## Microsoft pitches security AI that can act
+
+**Mara Signal:** Second: Microsoft is pitching Project Perception as security AI that can act, not only assist. Microsoft announced it on July 27 and said it would enter public preview on August 3.
+
+**Tavi Check:** Microsoft describes three coordinated agent roles. Red agents probe for paths to compromise. Blue agents investigate. Green agents remediate and harden systems.
+
+**Mara Signal:** That sounds like a security team that never sleeps.
+
+**Tavi Check:** It also sounds like mistakes that never sleep.
+
+**Mara Signal:** Fair. Microsoft says high-impact actions remain under human sign-off, and decisions are scoped, traceable, and replayable. But that is Microsoft's product description, not independent proof of real-world effectiveness.
+
+**Tavi Check:** And 'high impact' is doing a suspicious amount of work in that sentence. Who defines it? Disabling a compromised account could stop an attack. It could also lock out the person handling payroll.
+
+**Mara Signal:** Imagine it is two thirteen in the morning. A green agent proposes isolating a laptop after a suspicious login. The useful design is not simply yes-or-no autonomy. It is a permission ladder: collect evidence automatically, isolate a low-risk endpoint within policy, require a named human for broader changes, and keep a rollback path.
+
+**Tavi Check:** That ladder actually moves me. I came in treating autonomy as the risk and human approval as the safety valve. But at two thirteen in the morning, approval can be theatre if nobody is awake or empowered. The real risk is an action without a clear scope, log, or reversal path. Hold that for the Workday Move.
+
+**Tavi Check:** Before we leave the permission ladder, add a spend guardrail. Microsoft says Project Perception is pay-as-you-go, measured in Security Compute Units, so finance and security need budgets and exception alerts.
+
+**Mara Signal:** There's a human trap too. A queue of confident overnight recommendations creates a risk of rubber-stamping—click-to-clear theatre.
+
+**Tavi Check:** So, automation bias with an inbox?
+
+**Mara Signal:** Exactly. Friction should rise with consequence: show the evidence, blast radius, owner, and what reversal actually restores.
+
+**Tavi Check:** And measure false positives and rollback time, not only attacks detected. Otherwise the dashboard rewards activity while the business absorbs disruption.
+
+**Mara Signal:** I started with 'a team that never sleeps.' Better version: a team that never sleeps needs rules that never go missing.
+
+**Tavi Check:** That travels beyond cybersecurity. Any agent that can send, buy, delete, approve, or publish needs a permission boundary, an owner, and a reversible path.
+
+**Mara Signal:** In this episode's evidence set, the outcome claims come only from Microsoft, so we do not treat them as independently established.
+
+## Europe's transparency layer
+
+**Mara Signal:** Third: the European Union's AI transparency requirements under Article 50 apply from August 2.
+
+**Tavi Check:** And before you say the whole AI Act arrived—
+
+**Mara Signal:** I was absolutely about to say that.
+
+**Tavi Check:** Don't. Important parts were already active, and the high-risk deadlines were extended. The core Chapter Three requirements now start on December 2, 2027 for Annex Three systems, and August 2, 2028 for product-linked high-risk systems.
+
+**Mara Signal:** Good catch. What switched on is narrower: a practical transparency layer. The Commission says people generally need to be told when they are directly interacting with an AI system, unless that is obvious.
+
+**Tavi Check:** Start with providers. They generally must make synthetic audio, images, video, and text machine-readably detectable, subject to defined exclusions and feasibility limits. One timing wrinkle: for qualifying systems placed on the market before August second, twenty twenty-six, only that marking-and-detection duty shifts to December second, twenty twenty-six.
+
+**Mara Signal:** One narrow wrinkle, not a general delay—good. Then deployers. They have separate human-facing duties for qualifying deepfakes and AI-generated public-interest text. That text generally needs a clear label unless it receives substantive human review or editorial control and a person or legal entity takes editorial responsibility. A superficial check does not count.
+
+**Tavi Check:** Imagine a communications team uses AI to draft an explainer about a new workplace safety rule, publishes it to the public, posts an AI-generated presenter video, and adds a chatbot to answer questions.
+
+**Mara Signal:** Okay, three checks for that team. One: is the chatbot identified as AI at first interaction? Two: did the provider make the synthetic media machine-detectable, and did the team give viewers the required disclosure for a qualifying deepfake?
+
+**Tavi Check:** And three—the one teams miss. Was the public-interest text labelled? If not, it needs substantive human review or editorial control, and a person or legal entity taking editorial responsibility. Either review or control qualifies; the responsibility part is not optional.
+
+**Tavi Check:** Disclosure also needs timing and clarity. A label buried in terms and conditions is not the same as telling someone, at the moment of interaction, what they are dealing with.
+
+**Tavi Check:** And the design question is bigger than a badge. Tell the person what to do differently because AI is involved: double-check a recommendation, avoid sharing confidential information, or seek a human.
+
+**Mara Signal:** I was treating disclosure as a label. You're right: paired with a clear next step, it can become a control. The legal minimum still needs counsel.
+
+**Mara Signal:** And 'we're based outside Europe' is not a complete answer. Commission guidance says actors outside the EU can still be in scope when they place systems on the EU market or their output is used there. Specific application needs legal advice.
+
+**Tavi Check:** The consequences can be material. Article 99 allows fines for Article 50 noncompliance of up to fifteen million euros or, for an undertaking, three percent of total worldwide turnover in the preceding financial year—whichever is higher. For smaller firms covered by the special rule, the lower ceiling applies.
+
+**Mara Signal:** That is a ceiling, not an automatic invoice. Still, it makes disclosure an operational requirement, not a branding flourish.
+
+**Mara Signal:** Which brings us back to this show. We disclose that we are AI-made because listeners deserve to calibrate trust. We publish the transcript and receipts. And if a claim is wrong, we correct the page and the audio, rather than quietly swapping a sentence.
+
+**Tavi Check:** Transparency does not make weak work trustworthy.
+
+**Mara Signal:** No. But it makes accountability possible.
+
+## Workday Move
+
+**Mara Signal:** Your Workday Move takes five minutes. Choose one AI-enabled task or system your team uses, and open a note.
+
+**Tavi Check:** Write three lines: what AI may do, where human sign-off begins, and who owns the decision and rollback.
+
+**Mara Signal:** One boundary, not a company-wide audit. Send those three lines to the named owner by lunchtime.
+
+**Tavi Check:** If nobody accepts ownership, you found the first thing to fix.
+
+## Receipts, corrections and sign-off
+
+**Tavi Check:** The episode page has the full transcript, sources, corrections and ranked slate. From the cutting room: we dropped OpenAI's model price cuts. Useful, but less connected to this week's accountability question. We also left Microsoft's performance figures out because this evidence set could not independently verify them.
+
+**Mara Signal:** Capability Current is the useful AI week. We're Mara Signal and Tavi Check—fictional voices, openly operated by AI. See you next week.

@@ -1,0 +1,39 @@
+{
+  "artifact_hashes": {
+    "artwork": "cdd414c2778bfd17a1f8d14ab0edbf083f0c2061437eae6e761431bad4987b56",
+    "audio": "fd4bee32c9640a6a760b2cb2318706259999e044d727db54b8996a51647ce45b",
+    "rss_feed": "b24f16d91644dcb617405f74088356c38cb776cb4e4471971c40e149ef2a99c5",
+    "transcript": "6fc6c10358dcb93831ab6d62c7b63d62eecc1cbb7a5b6cb9979ed49ca7e2af22"
+  },
+  "audio_available": true,
+  "canonical_feed": "https://capability-current.amitt7274.chatgpt.site/feed.xml",
+  "distributed": false,
+  "episode": {
+    "dialogue_sha256": "b2b961180e84dd6fb5065457c8a049f8fe8072db921b715010ee646c4f2bbda3",
+    "id": "2026-W31",
+    "number": 1,
+    "planned_release_date": "2026-08-03",
+    "research_window_end": "2026-08-02",
+    "research_window_start": "2026-07-27",
+    "title": "When AI Crosses a Boundary, Who Owns the Risk?",
+    "transcript_spoken_words": 1568,
+    "transcript_turns": 58
+  },
+  "episode_artwork": "assets/cover.jpg",
+  "episode_audio": "media/episode-001.mp3",
+  "episode_audio_mime": "audio/mpeg",
+  "episode_transcript": "transcript-001.txt",
+  "gates": {
+    "audio": "pass",
+    "editorial": "pass",
+    "legal": "pass",
+    "platform": "pass",
+    "truth": "pass"
+  },
+  "message": "Episode release artifact finalized locally; network publication was not performed",
+  "network_publication_performed": false,
+  "public_base_url": "https://capability-current.amitt7274.chatgpt.site/",
+  "schema_version": 3,
+  "search_indexing": true,
+  "status": "released"
+}
