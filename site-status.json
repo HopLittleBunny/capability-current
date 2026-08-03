@@ -1,9 +1,9 @@
 {
  "schema_version": 2,
- "status": "launch_candidate",
- "distributed": false,
+ "status": "published_owner_authorised",
+ "distributed": true,
  "search_indexing": false,
- "canonical_feed": null,
+ "canonical_feed": "https://hoplittlebunny.github.io/capability-current/feed.xml",
  "episode": {
   "id": "2026-W31",
   "number": 1,
@@ -15,15 +15,17 @@
   "transcript_turns": 67,
   "transcript_spoken_words": 1719
  },
- "audio_available": false,
- "episode_audio": "media/episode-001.mp3",
+ "audio_available": true,
+ "episode_audio": "media/episode-001-v2.mp3",
  "episode_audio_mime": "audio/mpeg",
+ "episode_audio_sha256": "336594330571231334ab9d2f5eb341b9c1c8ed42ff6be442dee41d2176b1e55c",
+ "episode_audio_duration": "00:11:06",
  "gates": {
-  "editorial": "pending",
-  "truth": "pending",
-  "legal": "pending",
-  "audio": "pending",
-  "platform": "pending"
+  "editorial": "pass",
+  "truth": "not_rerun",
+  "legal": "not_rerun",
+  "audio": "pass",
+  "platform": "pass"
  },
- "message": "Episode 001 v2.2 launch candidate. Site and feed are reachable at the public GitHub Pages URL and the served enclosure is byte-identical to the approved master, but Truth, Legal, Audio and Platform gates have not re-run against the rebuild, so this artifact does not assert a completed gated release."
+ "message": "Episode 001 v2.2 is published on owner instruction and is serving from this site, the RSS feed, Spotify and YouTube. The dialogue is hash-bound, the finished audio was verified against this exact master, and live platform delivery was checked. The independent Truth and Legal gates have not re-run against the v2.2 rebuild, so this release does not assert a completed four-gate review."
 }

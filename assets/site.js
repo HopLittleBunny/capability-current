@@ -71,7 +71,17 @@
 
   audioCtas.forEach(function (cta) {
     cta.addEventListener("click", function (event) {
-      if (cta.getAttribute("aria-disabled") === "true") event.preventDefault();
+      if (cta.getAttribute("aria-disabled") === "true") {
+        event.preventDefault();
+        return;
+      }
+      // The hero button should actually start the episode, not just jump to it.
+      var player = document.querySelector("[data-episode-audio]");
+      if (player && !player.hidden && player.getAttribute("src")) {
+        player.play().catch(function () {
+          // Autoplay blocked or media unavailable: the anchor jump still reaches the player.
+        });
+      }
     });
   });
 
@@ -112,7 +122,8 @@
       }
 
       var gateLabels = {
-        pass: "Passed",
+        pass: "Verified",
+        not_rerun: "Not re-run on v2.2",
         pending: "Awaiting signed receipt",
         block: "Blocked"
       };
@@ -123,7 +134,7 @@
         cell.textContent = gateLabels[state] || state;
         cell.classList.toggle("status-pass", state === "pass");
         cell.classList.toggle("status-block", state === "block");
-        cell.classList.toggle("status-pending", state === "pending");
+        cell.classList.toggle("status-pending", state === "pending" || state === "not_rerun");
       });
     })
     .catch(function () {

@@ -107,11 +107,11 @@
           <table class="receipt-table">
             <thead><tr><th>Gate</th><th>Required evidence</th><th>Checked</th><th>Status</th></tr></thead>
             <tbody>
-              <tr><td data-label="Gate">Editorial lock</td><td data-label="Evidence">Final dialogue hash</td><td data-label="Checked">Release-controller record</td><td data-label="Status" class="status-pass" data-gate-status="editorial">Hash-bound PASS</td></tr>
-              <tr><td data-label="Gate">Fact verification</td><td data-label="Evidence">Claim and source receipts</td><td data-label="Checked">Independent truth function</td><td data-label="Status" class="status-pass" data-gate-status="truth">Hash-bound PASS</td></tr>
-              <tr><td data-label="Gate">Legal-risk review</td><td data-label="Evidence">Risk report bound to script</td><td data-label="Checked">Independent legal function</td><td data-label="Status" class="status-pass" data-gate-status="legal">Hash-bound PASS</td></tr>
-              <tr><td data-label="Gate">Finished-audio QA</td><td data-label="Evidence">MP3 hash, measured QA, and full listen</td><td data-label="Checked">Independent audio reviewer</td><td data-label="Status" class="status-pass" data-gate-status="audio">Hash-bound PASS</td></tr>
-              <tr><td data-label="Gate">Platform release</td><td data-label="Evidence">Site, RSS, metadata, and disclosure check</td><td data-label="Checked">Independent platform reviewer</td><td data-label="Status" class="status-pass" data-gate-status="platform">Hash-bound PASS</td></tr>
+              <tr><td data-label="Gate">Editorial lock</td><td data-label="Evidence">Final dialogue hash</td><td data-label="Checked">Release-controller record</td><td data-label="Status" class="status-pass" data-gate-status="editorial">Hash-bound</td></tr>
+              <tr><td data-label="Gate">Fact verification</td><td data-label="Evidence">Claim and source receipts</td><td data-label="Checked">Independent truth function</td><td data-label="Status" class="status-pending" data-gate-status="truth">Not re-run on v2.2</td></tr>
+              <tr><td data-label="Gate">Legal-risk review</td><td data-label="Evidence">Risk report bound to script</td><td data-label="Checked">Independent legal function</td><td data-label="Status" class="status-pending" data-gate-status="legal">Not re-run on v2.2</td></tr>
+              <tr><td data-label="Gate">Finished-audio QA</td><td data-label="Evidence">MP3 hash, measured QA, and full listen</td><td data-label="Checked">Independent audio reviewer</td><td data-label="Status" class="status-pass" data-gate-status="audio">Verified</td></tr>
+              <tr><td data-label="Gate">Platform release</td><td data-label="Evidence">Site, RSS, metadata, and disclosure check</td><td data-label="Checked">Independent platform reviewer</td><td data-label="Status" class="status-pass" data-gate-status="platform">Verified</td></tr>
             </tbody>
           </table>
         </section>
@@ -126,7 +126,7 @@
           <a href="corrections.html">Corrections</a>
           <a href="disclosure.html">AI disclosure</a>
         </nav>
-        <p class="footer-note">Openly built and operated by AI.<br>Distribution status is never implied.</p>
+        <p class="footer-note">Openly built and operated by AI. Gate status is published, not implied.</p>
       </footer>
     </div>
   </body>
