@@ -1,0 +1,121 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "2026-W31",
+  "research_window": {
+    "start": "2026-07-27",
+    "end": "2026-08-02",
+    "timezone": "Australia/Perth"
+  },
+  "compiled_at": "2026-08-03T04:25:00+08:00",
+  "scoring": {
+    "workplace_impact": 30,
+    "evidence_quality": 25,
+    "novelty": 15,
+    "audience_breadth": 5,
+    "shelf_life": 10,
+    "decision_ownership": 5,
+    "productive_disagreement": 10,
+    "maximum_total": 100
+  },
+  "candidates": [
+    {
+      "rank": 1,
+      "candidate_id": "W31-EU-ARTICLE50",
+      "title": "EU AI Act Article 50 transparency duties begin applying",
+      "event_date": "2026-08-02",
+      "primary_url": "https://digital-strategy.ec.europa.eu/en/faqs/transparency-obligations-under-article-50-ai-act",
+      "independent_url": "https://www.sciencedirect.com/science/article/pii/S2212473X26000684",
+      "scores": {
+        "workplace_impact": 29,
+        "evidence_quality": 24,
+        "novelty": 14,
+        "audience_breadth": 5,
+        "shelf_life": 10,
+        "decision_ownership": 5,
+        "productive_disagreement": 9,
+        "total": 96
+      },
+      "decision": "SELECTED",
+      "reason": "A date-bound operational change with direct implications for product, communications, legal and governance teams; it completes the capability-to-authority-to-accountability throughline."
+    },
+    {
+      "rank": 2,
+      "candidate_id": "W31-OAI-CROSSOVER",
+      "title": "OpenAI reports task crossover across occupation boundaries",
+      "event_date": "2026-07-27",
+      "primary_url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/",
+      "independent_url": "https://www.axios.com/2026/07/27/openai-chatgpt-work-specialists",
+      "scores": {
+        "workplace_impact": 27,
+        "evidence_quality": 22,
+        "novelty": 13,
+        "audience_breadth": 5,
+        "shelf_life": 9,
+        "decision_ownership": 5,
+        "productive_disagreement": 9,
+        "total": 90
+      },
+      "decision": "SELECTED",
+      "reason": "The study supplies a useful role-boundary signal and a strong denominator dispute, while its message-level method creates clear limits the hosts can explain."
+    },
+    {
+      "rank": 3,
+      "candidate_id": "W31-MS-PERCEPTION",
+      "title": "Microsoft announces Project Perception security agents",
+      "event_date": "2026-07-27",
+      "primary_url": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/",
+      "independent_url": "https://www.infosecurity-magazine.com/news/microsoft-ai-security-initiatives/",
+      "scores": {
+        "workplace_impact": 26,
+        "evidence_quality": 19,
+        "novelty": 13,
+        "audience_breadth": 4,
+        "shelf_life": 8,
+        "decision_ownership": 5,
+        "productive_disagreement": 10,
+        "total": 85
+      },
+      "decision": "SELECTED",
+      "reason": "The proposed shift from advice to action makes permission boundaries concrete. Vendor outcome claims remain excluded because this evidence set does not independently test them."
+    },
+    {
+      "rank": 4,
+      "candidate_id": "W31-GOOGLE-BEYOND-ZERO",
+      "title": "Google proposes Beyond Zero security for people and AI agents",
+      "event_date": "2026-07-27",
+      "primary_url": "https://blog.google/security/going-beyond-zero-a-new-paradigm-for-enterprise-security/",
+      "scores": {
+        "workplace_impact": 24,
+        "evidence_quality": 19,
+        "novelty": 12,
+        "audience_breadth": 4,
+        "shelf_life": 9,
+        "decision_ownership": 5,
+        "productive_disagreement": 8,
+        "total": 81
+      },
+      "decision": "CUT",
+      "reason": "Strong and relevant, but substantially overlaps the selected authority-boundary security story; keeping both would crowd out role change or the new transparency duties."
+    },
+    {
+      "rank": 5,
+      "candidate_id": "W31-OAI-PRICE-CUTS",
+      "title": "OpenAI cuts GPT-5.6 Luna and Terra prices",
+      "event_date": "2026-07-30",
+      "primary_url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "scores": {
+        "workplace_impact": 22,
+        "evidence_quality": 18,
+        "novelty": 11,
+        "audience_breadth": 5,
+        "shelf_life": 6,
+        "decision_ownership": 4,
+        "productive_disagreement": 5,
+        "total": 71
+      },
+      "decision": "CUT",
+      "reason": "Useful procurement news, but the primary evidence is vendor-authored and the pricing story does not strengthen this episode's single accountability argument as much as the selected three."
+    }
+  ],
+  "selection_summary": "Selected three distinct boundary shifts: work crosses role boundaries, Microsoft proposes security agents with authority to act, and transparency duties formalise accountability. The two cut stories remain in the public receipt so cutting is not mistaken for debunking."
+}

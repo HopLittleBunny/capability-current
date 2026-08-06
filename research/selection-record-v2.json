@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0.0",
+  "record_type": "editorial_selection_record",
+  "episode_id": "2026-W31",
+  "episode_version": "v2",
+  "compiled_at": "2026-08-06T00:00:00+08:00",
+  "supersedes": {
+    "artifact": "episodes/2026-W31/research/candidate-slate.json",
+    "artifact_version": "v1",
+    "status": "SUPERSEDED_BUT_PRESERVED",
+    "note": "The v1 slate remains published unmodified because the Truth Gate signed it by hash. It records the selection for the v1 script, which was classified a failed pilot and rebuilt. It does not describe the episode that shipped."
+  },
+  "rubric": {
+    "id": "rubric_v2_listener_value",
+    "source": "config/listener-experience-standard.md",
+    "scored_numerically": false,
+    "scoring_note": "Rubric v2 is a set of ordering rules, not a 100-point scoring model. No numeric scores were computed for the v2 rebuild, and none are invented here. The superseded v1 slate retains its own numeric scores and is preserved unmodified at episodes/2026-W31/research/candidate-slate.json.",
+    "governing_rules": [
+      "4c. The most retellable qualifying story leads.",
+      "4c. Cost, price and availability changes are presumptively lead-eligible.",
+      "4c. Legal and policy stories default to a quick hit of 90 seconds or less with exactly one action."
+    ]
+  },
+  "selections": [
+    {
+      "candidate_id": "W31-OAI-PRICE-CUTS",
+      "title": "OpenAI cuts GPT-5.6 Luna and Terra prices",
+      "event_date": "2026-07-30",
+      "v2_decision": "SELECTED_LEAD",
+      "v1_decision": "CUT",
+      "changed": true,
+      "reason": "Rubric v2 makes price and cost changes presumptively lead-eligible and prefers the most retellable story. A published unit-price fall that does not reduce the invoice is both retellable and directly actionable by budget owners.",
+      "primary_url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "source_id": "SRC-OAI-PRICE-PERFORMANCE",
+      "url_note": "Matches the source ledger entry and the URL cited in the shipped claim ledger. The superseded v1 slate listed a different OpenAI post; that record is preserved unmodified."
+    },
+    {
+      "candidate_id": "W31-OAI-CROSSOVER",
+      "title": "OpenAI reports task crossover across occupation boundaries",
+      "event_date": "2026-07-27",
+      "v2_decision": "SELECTED",
+      "v1_decision": "SELECTED",
+      "changed": false,
+      "reason": "Retained as a full segment. Supplies a role-boundary signal and a denominator dispute worth explaining.",
+      "primary_url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/"
+    },
+    {
+      "candidate_id": "W31-MS-PERCEPTION",
+      "title": "Microsoft announces Project Perception security agents",
+      "event_date": "2026-07-27",
+      "v2_decision": "SELECTED",
+      "v1_decision": "SELECTED",
+      "changed": false,
+      "reason": "Retained as a full segment. The shift from advice to action makes permission boundaries concrete. Vendor outcome figures remain excluded for lack of independent corroboration.",
+      "primary_url": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/"
+    },
+    {
+      "candidate_id": "W31-EU-ARTICLE50",
+      "title": "EU AI Act Article 50 transparency duties begin applying",
+      "event_date": "2026-08-02",
+      "v2_decision": "SELECTED_QUICK_HIT",
+      "v1_decision": "SELECTED_LEAD",
+      "changed": true,
+      "reason": "Demoted from a full segment to a 90-second quick hit under rubric v2, which defaults policy and legal stories to a short form with exactly one action. The v1 treatment ran long and read as briefing copy rather than conversation.",
+      "primary_url": "https://digital-strategy.ec.europa.eu/en/faqs/transparency-obligations-under-article-50-ai-act"
+    },
+    {
+      "candidate_id": "W31-GOOGLE-BEYOND-ZERO",
+      "title": "Google proposes Beyond Zero security for people and AI agents",
+      "event_date": "2026-07-27",
+      "v2_decision": "CUT",
+      "v1_decision": "CUT",
+      "changed": false,
+      "reason": "Substantially overlaps the selected security-authority story. Cut does not mean debunked.",
+      "primary_url": "https://blog.google/security/going-beyond-zero-a-new-paradigm-for-enterprise-security/"
+    }
+  ],
+  "selection_summary": "Episode 001 as broadcast leads with the price collapse, runs task crossover and security agent authority as full segments, and closes the argument with a 90-second quick hit on EU Article 50. Google's Beyond Zero was the only candidate cut outright.",
+  "integrity_note": "This record was created on 6 August 2026 to correct a published inconsistency: the episode page rendered the v1 slate, which listed the price-cut story as cut, while the transcript and audio led with it. See corrections/CORR-2026-W31-001.json."
+}

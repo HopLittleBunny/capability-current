@@ -52,10 +52,26 @@
           <p>This log records what changed, why it changed, when it changed, and which audio, transcript, show-note, or social artifacts were replaced.</p>
         </header>
 
-        <section class="empty-state" aria-labelledby="empty-title">
-          <p class="label label-lime">Current log · 3 August 2026 AWST</p>
-          <h2 id="empty-title">No corrections logged.</h2>
-          <p>Episode 001 has a finalized release artifact. Any material change after release appears here with a timestamp and affected version.</p>
+        <section class="content-section" aria-labelledby="log-title">
+          <p class="label label-lime">Current log &middot; 6 August 2026 AWST</p>
+          <h2 id="log-title">One correction logged.</h2>
+
+          <article class="correction-entry">
+            <h3>CORR-2026-W31-001 &mdash; Episode 001 ranked slate showed a superseded selection</h3>
+            <p class="label">Logged 6 August 2026 AWST &middot; Severity P1 &middot; Episode 001 (2026-W31) &middot; GUID preserved &middot; No audio affected</p>
+
+            <div class="prose">
+              <p><strong>What was wrong.</strong> The cutting-room table on the Episode 001 page listed the OpenAI price-cut story as <em>cut</em>, and showed the EU Article 50 story as the top-ranked selection. The published episode leads with the price-cut story, and runs the EU story as a ninety-second quick hit.</p>
+
+              <p><strong>Why it happened.</strong> Episode 001 was rebuilt shortly before release under listener-value rubric v2. The dialogue, transcript, show notes and audio were all regenerated. The ranked slate was hardcoded into the page rather than generated from our selection record, so it did not follow the rebuild and kept describing the earlier version.</p>
+
+              <p><strong>What we changed.</strong> The table now shows the selection as broadcast, without scores &mdash; rubric v2 is a set of ordering rules rather than a hundred-point score, and inventing numbers to fill the column would have repeated the original mistake. The superseded record stays published unmodified at <a href="research/candidate-slate.json">candidate-slate.json</a>, because an outdated receipt is not something to quietly delete. The selection as broadcast is at <a href="research/selection-record-v2.json">selection-record-v2.json</a>.</p>
+
+              <p><strong>What was not affected.</strong> No spoken claim has been found to be wrong. No audio was re-recorded and the episode GUID is unchanged. The audio, transcript, show notes and feed all described the published episode correctly throughout.</p>
+
+              <p><strong>What we fixed in the process.</strong> Static page content that restates a machine-readable record is now generated from that record at build time rather than hand-maintained. A gate receipt must bind the exact script that ships, and a version bump must regenerate the whole artifact set, research records included. Our gates checked that this file was intact; nothing checked that it was still true.</p>
+            </div>
+          </article>
         </section>
 
         <section class="content-section">
