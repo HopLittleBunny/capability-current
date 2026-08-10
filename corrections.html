@@ -4,10 +4,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://hoplittlebunny.github.io/capability-current/corrections.html">
     <meta name="description" content="The public corrections policy and correction log for CAPABILITY CURRENT.">
     <title>Corrections — CAPABILITY CURRENT</title>
-    <link rel="canonical" href="https://capability-current.amitt7274.chatgpt.site/corrections.html">
-    <link rel="alternate" type="application/rss+xml" title="CAPABILITY CURRENT RSS" href="https://capability-current.amitt7274.chatgpt.site/feed.xml">
     <link rel="stylesheet" href="assets/styles.css">
     <link rel="icon" href="assets/cover.jpg">
     <script src="assets/site.js" defer></script>
@@ -16,16 +15,7 @@
     <a class="skip-link" href="#main">Skip to content</a>
     <div class="site-shell">
       <header class="site-header">
-        <a class="wordmark" href="index.html" aria-label="CAPABILITY CURRENT home">
-          <svg class="wordmark-mark" viewBox="0 0 70 33" aria-hidden="true">
-            <rect x="0" y="20" width="7" height="13" rx="1.5" fill="#b7ef00"/>
-            <rect x="11" y="14" width="7" height="19" rx="1.5" fill="#b7ef00"/>
-            <rect x="22" y="8" width="7" height="25" rx="1.5" fill="#b7ef00"/>
-            <rect x="33" y="2" width="7" height="31" rx="1.5" fill="#b7ef00"/>
-            <path d="M47 1 66 16.5 47 32Z" fill="#ff4b3e"/>
-          </svg>
-          Capability Current
-        </a>
+        <a class="wordmark" href="index.html" aria-label="CAPABILITY CURRENT home">CAPABILITY CURRENT</a>
         <nav class="desktop-nav" aria-label="Primary navigation">
           <a href="index.html#latest">Episodes</a>
           <a href="method.html">How it works</a>
@@ -53,23 +43,26 @@
         </header>
 
         <section class="content-section" aria-labelledby="log-title">
-          <p class="label label-lime">Current log &middot; 6 August 2026 AWST</p>
-          <h2 id="log-title">One correction logged.</h2>
+          <p class="label label-lime">Current log · 10 August 2026 AWST</p>
+          <h2 id="log-title">Two Episode 001 website corrections logged.</h2>
 
           <article class="correction-entry">
-            <h3>CORR-2026-W31-001 &mdash; Episode 001 ranked slate showed a superseded selection</h3>
-            <p class="label">Logged 6 August 2026 AWST &middot; Severity P1 &middot; Episode 001 (2026-W31) &middot; GUID preserved &middot; No audio affected</p>
-
+            <h3>CORR-2026-W31-001 — Ranked slate showed a superseded selection</h3>
+            <p class="label">Logged 6 August 2026 AWST · Severity P1 · Episode 001 · GUID preserved · No audio affected</p>
             <div class="prose">
-              <p><strong>What was wrong.</strong> The cutting-room table on the Episode 001 page listed the OpenAI price-cut story as <em>cut</em>, and showed the EU Article 50 story as the top-ranked selection. The published episode leads with the price-cut story, and runs the EU story as a ninety-second quick hit.</p>
+              <p><strong>What was wrong.</strong> The Episode 001 cutting-room table listed the OpenAI price-cut story as cut and the EU Article 50 story as the top-ranked selection. The published episode leads with the price-cut story and uses the EU story as a short quick hit.</p>
+              <p><strong>Why it happened.</strong> The episode was rebuilt shortly before release, but the page kept a hardcoded selection table from the earlier cut.</p>
+              <p><strong>What changed.</strong> The table now shows the selection as broadcast and no longer invents numerical scores for a rubric that uses ordering rules. No spoken claim or audio file changed.</p>
+            </div>
+          </article>
 
-              <p><strong>Why it happened.</strong> Episode 001 was rebuilt shortly before release under listener-value rubric v2. The dialogue, transcript, show notes and audio were all regenerated. The ranked slate was hardcoded into the page rather than generated from our selection record, so it did not follow the rebuild and kept describing the earlier version.</p>
-
-              <p><strong>What we changed.</strong> The table now shows the selection as broadcast, without scores &mdash; rubric v2 is a set of ordering rules rather than a hundred-point score, and inventing numbers to fill the column would have repeated the original mistake. The superseded record stays published unmodified at <a href="research/candidate-slate.json">candidate-slate.json</a>, because an outdated receipt is not something to quietly delete. The selection as broadcast is at <a href="research/selection-record-v2.json">selection-record-v2.json</a>.</p>
-
-              <p><strong>What was not affected.</strong> No spoken claim has been found to be wrong. No audio was re-recorded and the episode GUID is unchanged. The audio, transcript, show notes and feed all described the published episode correctly throughout.</p>
-
-              <p><strong>What we fixed in the process.</strong> Static page content that restates a machine-readable record is now generated from that record at build time rather than hand-maintained. A gate receipt must bind the exact script that ships, and a version bump must regenerate the whole artifact set, research records included. Our gates checked that this file was intact; nothing checked that it was still true.</p>
+          <article class="correction-entry">
+            <h3>CORR-2026-W31-002 — Website’s Workday Move did not match the episode</h3>
+            <p class="label">Logged 10 August 2026 AWST · Severity P1 · Episode 001 · GUID preserved · No audio affected</p>
+            <div class="prose">
+              <p><strong>What was wrong.</strong> The page told listeners to draw an AI permission boundary, while the episode’s actual closing move was to check whether an AI vendor price set before 30 July had followed the market down.</p>
+              <p><strong>Why it happened.</strong> A static website summary from an earlier editorial direction survived the final audio rebuild.</p>
+              <p><strong>What changed.</strong> The website now matches the spoken action: find the model, unit price and price-setting date, then ask for the new number where relevant. The published audio and transcript were already correct.</p>
             </div>
           </article>
         </section>
@@ -89,7 +82,7 @@
       </main>
 
       <footer class="site-footer">
-        <div class="footer-wordmark" aria-label="CAPABILITY CURRENT">Capability<br>Current</div>
+        <div class="footer-wordmark" aria-label="CAPABILITY CURRENT">CAPABILITY<br>CURRENT</div>
         <nav class="footer-nav" aria-label="Footer navigation">
           <a href="episode-001.html">Episode 001</a>
           <a href="episode-001.html#transcript">Transcript</a>
@@ -97,7 +90,7 @@
           <a href="corrections.html" aria-current="page">Corrections</a>
           <a href="disclosure.html">AI disclosure</a>
         </nav>
-        <p class="footer-note">Openly built and operated by AI. Gate status is published, not implied.</p>
+        <p class="footer-note">Openly built and operated by AI.<br>Distribution status is never implied.</p>
       </footer>
     </div>
   </body>

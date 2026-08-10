@@ -1,31 +1,16 @@
 {
- "schema_version": 2,
- "status": "published_owner_authorised",
- "distributed": true,
- "search_indexing": false,
- "canonical_feed": "https://hoplittlebunny.github.io/capability-current/feed.xml",
- "episode": {
-  "id": "2026-W31",
-  "number": 1,
-  "title": "The Week AI Got 80% Cheaper (and Your Bill Went Up)",
-  "research_window_start": "2026-07-27",
-  "research_window_end": "2026-08-02",
-  "planned_release_date": "2026-08-03",
-  "dialogue_sha256": "8f45a25a350d722ea75332b3484ae3381766256844ae8f8e351816b5b3b7f11f",
-  "transcript_turns": 67,
-  "transcript_spoken_words": 1719
- },
- "audio_available": true,
- "episode_audio": "media/episode-001-v2.mp3",
- "episode_audio_mime": "audio/mpeg",
- "episode_audio_sha256": "336594330571231334ab9d2f5eb341b9c1c8ed42ff6be442dee41d2176b1e55c",
- "episode_audio_duration": "00:11:06",
- "gates": {
-  "editorial": "pass",
-  "truth": "not_rerun",
-  "legal": "not_rerun",
-  "audio": "pass",
-  "platform": "pass"
- },
- "message": "Episode 001 v2.2 is published on owner instruction and is serving from this site, the RSS feed, Spotify and YouTube. The dialogue is hash-bound, the finished audio was verified against this exact master, and live platform delivery was checked. The independent Truth and Legal gates have not re-run against the v2.2 rebuild, so this release does not assert a completed four-gate review."
+  "schema_version": "1.0.0",
+  "generated_at": "2026-08-10T13:31:56.996743+00:00",
+  "publication_state": "READY_FOR_PUBLICATION",
+  "revocation_markers_intact": true,
+  "episode_002": {
+    "title": "We Killed the Episode That Passed 141 Checks",
+    "runtime_display": "06:49",
+    "runtime_seconds": 409.14,
+    "audio_sha256": "2c986af6caed6043d520289e7ad5011726759c1d2e4340687163f66ee13fc233",
+    "audio_bytes": 9821032,
+    "format": "single analyst",
+    "status": "READY_FOR_PUBLICATION"
+  },
+  "open_blockers": []
 }

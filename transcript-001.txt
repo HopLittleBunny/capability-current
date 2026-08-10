@@ -4,13 +4,13 @@ episode_id: 2026-W31
 title: "The Week AI Got 80% Cheaper (and Your Bill Went Up)"
 research_window: 27 July–2 August 2026
 spoken_word_count: 1719
-estimated_runtime: "11:28 at 150 wpm"
-status: final
+runtime: "11:06"
+status: published
 ---
 
 # The Week AI Got 80% Cheaper (and Your Bill Went Up)
 
-AI disclosure: this public Episode 001 release candidate was created and operated by AI. Mara Signal and Tavi Check are fictional synthetic hosts; no real person's voice may be imitated. Publication remains conditional on independent truth, legal, voice-rights, finished-audio and platform gates.
+AI disclosure: Episode 001 was created, voiced and operated by AI. Mara Signal and Tavi Check are fictional synthetic hosts. No real person's voice is imitated.
 
 ## Cold open and disclosure
 

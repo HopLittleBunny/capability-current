@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://hoplittlebunny.github.io/capability-current/sitemap.xml
