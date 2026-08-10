@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "generated_at": "2026-08-10T13:31:56.996743+00:00",
-  "publication_state": "READY_FOR_PUBLICATION",
+  "publication_state": "PUBLISHED",
   "revocation_markers_intact": true,
   "episode_002": {
     "title": "We Killed the Episode That Passed 141 Checks",
@@ -10,7 +10,10 @@
     "audio_sha256": "2c986af6caed6043d520289e7ad5011726759c1d2e4340687163f66ee13fc233",
     "audio_bytes": 9821032,
     "format": "single analyst",
-    "status": "READY_FOR_PUBLICATION"
+    "status": "PUBLISHED",
+    "public_episode_url": "https://hoplittlebunny.github.io/capability-current/episode-002.html",
+    "public_audio_url": "https://hoplittlebunny.github.io/capability-current/media/episode-002.mp3",
+    "public_rss_url": "https://hoplittlebunny.github.io/capability-current/feed.xml"
   },
   "open_blockers": []
 }
