@@ -36,6 +36,8 @@
     <podcast:medium>podcast</podcast:medium>
     <item>
       <title>We Killed the Episode That Passed 141 Checks</title>
+      <itunes:title>We Killed the Episode That Passed 141 Checks</itunes:title>
+      <itunes:author>Capability Current</itunes:author>
       <link>https://hoplittlebunny.github.io/capability-current/episode-002.html</link>
       <guid isPermaLink="false">urn:uuid:0412dfe8-9c02-555c-8d4c-74043e22211f</guid>
       <pubDate>Mon, 10 Aug 2026 13:31:56 +0000</pubDate>

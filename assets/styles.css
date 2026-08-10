@@ -277,6 +277,14 @@ a {
   line-height: 0.98;
 }
 
+.episode-title-link {
+  text-decoration: none;
+}
+
+.episode-title-link:hover {
+  color: var(--coral);
+}
+
 .metadata {
   margin: 1.7rem 0 0;
   color: var(--muted);
