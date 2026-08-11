@@ -1,19 +1,13 @@
 {
-  "schema_version": "1.0.0",
-  "generated_at": "2026-08-10T13:31:56.996743+00:00",
-  "publication_state": "PUBLISHED",
-  "revocation_markers_intact": true,
+  "schema_version": "2.0.0",
+  "generated_at": "2026-08-11T01:49:50.352190+00:00",
+  "publication_state": "READY_FOR_RELEASE",
   "episode_002": {
-    "title": "We Killed the Episode That Passed 141 Checks",
-    "runtime_display": "06:49",
-    "runtime_seconds": 409.14,
-    "audio_sha256": "2c986af6caed6043d520289e7ad5011726759c1d2e4340687163f66ee13fc233",
-    "audio_bytes": 9821032,
-    "format": "single analyst",
-    "status": "PUBLISHED",
-    "public_episode_url": "https://hoplittlebunny.github.io/capability-current/episode-002.html",
-    "public_audio_url": "https://hoplittlebunny.github.io/capability-current/media/episode-002.mp3",
-    "public_rss_url": "https://hoplittlebunny.github.io/capability-current/feed.xml"
-  },
-  "open_blockers": []
+    "title": "The Agent Did Its Job. That Was the Problem.",
+    "revision": "r1",
+    "runtime_seconds": 438.46,
+    "audio_sha256": "ed75329e07c7dbc308baeb1fe913b6fce311a97c1acf5811b9b3b502993ab8ef",
+    "audio_bytes": 10524833,
+    "public_audio_url": "https://hoplittlebunny.github.io/capability-current/media/episode-002-r1.mp3"
+  }
 }
