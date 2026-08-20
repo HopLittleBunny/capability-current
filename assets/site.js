@@ -18,6 +18,38 @@
     });
   }
 
+  const signupForms = Array.from(document.querySelectorAll("[data-email-signup]"));
+
+  signupForms.forEach(function (form) {
+    form.addEventListener("submit", function (event) {
+      event.preventDefault();
+      const input = form.querySelector('input[type="email"]');
+      const status = form.querySelector("[data-signup-status]");
+      if (!input || !input.checkValidity()) {
+        if (input) input.reportValidity();
+        return;
+      }
+
+      const recipient = form.getAttribute("action").replace(/^mailto:/, "");
+      const subject = "Subscribe to Capability Current";
+      const body =
+        "Please add " +
+        input.value.trim() +
+        " to the Capability Current weekly episode list. I understand I can unsubscribe by email at any time.";
+
+      if (status) {
+        status.textContent = "Your email app should open. Choose Send to complete the request.";
+      }
+      window.location.href =
+        "mailto:" +
+        recipient +
+        "?subject=" +
+        encodeURIComponent(subject) +
+        "&body=" +
+        encodeURIComponent(body);
+    });
+  });
+
   const audioPlayers = Array.from(document.querySelectorAll("[data-episode-audio]"));
   const pendingStates = Array.from(document.querySelectorAll("[data-audio-pending]"));
   const audioCtas = Array.from(document.querySelectorAll("[data-audio-cta]"));

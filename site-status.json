@@ -1,7 +1,17 @@
 {
   "schema_version": "2.0.0",
-  "generated_at": "2026-08-20T02:02:30+00:00",
+  "generated_at": "2026-08-20T03:41:00.966979+00:00",
   "publication_state": "PUBLISHED",
+  "funnel": {
+    "follow_routes": [
+      "spotify",
+      "youtube",
+      "rss"
+    ],
+    "email_request": "PRIVACY_MINIMISED_MAIL_APP_HANDOFF",
+    "privacy_notice": "privacy.html",
+    "paid_acquisition_state": "HOLD_UNTIL_EPISODE_003_IS_PUBLIC_ON_YOUTUBE_AND_PRESENT_ON_SPOTIFY"
+  },
   "episode_002": {
     "title": "The Agent Did Its Job. That Was the Problem.",
     "revision": "r1",
