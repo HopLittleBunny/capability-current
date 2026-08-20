@@ -440,7 +440,7 @@ a {
 
 .platform-actions {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   align-self: start;
   border: 2px solid var(--rule);
 }
@@ -473,6 +473,10 @@ a {
   font-weight: 750;
   letter-spacing: 0.06em;
   text-transform: uppercase;
+}
+
+.platform-apple {
+  border-top-color: #a855f7;
 }
 
 .platform-spotify {
