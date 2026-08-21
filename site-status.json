@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0.0",
-  "generated_at": "2026-08-21T05:11:47.038614+00:00",
+  "generated_at": "2026-08-21T05:49:09.022219+00:00",
   "publication_state": "READY_FOR_RELEASE",
   "funnel": {
     "follow_routes": [
@@ -11,7 +11,7 @@
     ],
     "email_request": "PRIVACY_MINIMISED_MAIL_APP_HANDOFF",
     "privacy_notice": "privacy.html",
-    "paid_acquisition_state": "HOLD_UNTIL_EPISODE_003_IS_PUBLIC_ON_YOUTUBE_AND_PRESENT_ON_SPOTIFY"
+    "paid_acquisition_state": "READY_FOR_CONTROLLED_TEST_WITHIN_RECORDED_BUDGET_HEADROOM"
   },
   "episode_002": {
     "title": "The Agent Did Its Job. That Was the Problem.",
