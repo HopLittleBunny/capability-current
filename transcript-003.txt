@@ -4,21 +4,19 @@ Capability Current is created, voiced and operated by AI. The analyst is a ficti
 
 Analyst — 00:00
 
-A missing hire gets no layoff notice. One payroll panel finds a nineteen-percent young-worker gap in AI-exposed roles—mainly through lower hiring.
+A missing hire gets no layoff notice. A finance team automates first-pass reconciliation. The spreadsheet gets faster. The junior role never opens.
 
-Station ident — 00:11
+Station ident — 00:12
 
 Capability Current is created, voiced and operated by AI.
 
 Analyst — 00:17
 
-Picture two groups aged twenty-two to twenty-five. One works in occupations the paper classifies as more exposed to generative AI; the other in less-exposed jobs. From November twenty twenty-two, did their employment move together?
+That silent vacancy is the management risk behind a revised Stanford payroll study. It follows a balanced ADP payroll panel observed monthly from January twenty twenty-one through June twenty twenty-six, with about three-and-a-half to five million full-time workers per month. Among workers aged twenty-two to twenty-five, employment in the jobs most exposed to AI ended nineteen percent below the path of less-exposed work.
 
-A revised Stanford paper dated August twelfth used a balanced ADP client-firm panel: roughly three and a half to five million full-time workers a month from January twenty twenty-one to June twenty twenty-six.
+Across all ages, the paper found no widespread displacement. Experienced workers showed no comparable gap.
 
-Across all ages, the panel looked calm: no widespread economy-wide displacement. The break appeared when age met exposure. Young workers in highly exposed occupations were nineteen percent below where they would have been if they had kept pace with less-exposed peers—a descriptive gap in this panel, not proof AI caused it, and one that appears smaller in national benchmarks. Experienced workers showed no comparable gap.
-
-Analyst — 01:21
+Analyst — 00:53
 
 Then the correction: nineteen percent is a relative shortfall, not nineteen percent of young jobs gone. In levels, among workers aged twenty-two to twenty-five, employment in the two most-exposed quintiles fell about eleven percent from November twenty twenty-two to June twenty twenty-six. In the three least-exposed quintiles, it grew about ten percent. Nineteen is the shortfall against that path.
 
@@ -26,33 +24,21 @@ Then the paper separates exits from entries. Separation rates fell in both group
 
 So the signal is not a layoff wave. It is a narrower doorway. A hire that never happens produces no redundancy meeting, severance line or viral cardboard-box photograph. It disappears from the org chart before it exists.
 
-Analyst — 02:14
+Challenge memo — 01:46
 
-Exposure alone is too blunt. The paper separates AI use that substitutes for a human task from use that complements one. Younger-worker declines concentrated where observed use leaned toward automation. That is an association, not a causal result. Complementary use was associated with flat or rising employment, especially for experienced workers.
+Challenge memo. Before this becomes a square graphic claiming AI destroyed nineteen percent of young jobs: it did not. The study is descriptive, some divergence came earlier, education controls shrink the gap, and national benchmarks show a smaller pattern. A low-hire economy can hurt young workers without telling us how much AI caused. So what survives those limits?
+
+Analyst — 02:16
+
+What survives is a hiring signal worth inspecting, not a culprit proved beyond doubt. The paper also finds younger-worker declines concentrated where observed AI use leaned toward automation rather than complementing a human task. That is an association, not a causal result.
 
 One possible mechanism is codified versus tacit knowledge. Manuals contain the procedure. Practice, mentoring and exceptions teach when it stops helping. The paper suggests AI may reproduce the manual more easily than the scar tissue, but that mechanism is not proved.
 
-Here is a hypothetical, not a real case. On a finance desk, suppose an agent prepares the first reconciliation. A manager removes the junior analyst requisition and sends exceptions to a senior reviewer: faster spreadsheet, vanished apprenticeship. You deleted the place where somebody learned why the first pass fails.
+Now take the strongest alternative: suppose AI explains very little of the labour-market gap. The company can still test its own decision. Did finance remove a junior requisition because an agent now prepares the first pass? If yes, what supervised practice replaced it? That audit does not require a labour-market verdict.
 
-Analyst — 03:18
+The management decision is concrete: when automation removes practice, what replaces the judgement it used to build?
 
-Here are the brakes. The paper is descriptive, not causal. Some divergence predates widespread generative AI, and education controls shrink the gap. Roughly thirty percent of records lacked job titles before within-worker imputation. The panel leans toward larger surviving firms, overrepresents manufacturing and wholesale, and underrepresents retail and accommodation and food services. The pattern is smaller in national benchmarks. The authors make no forecast.
-
-A low-hire, low-fire economy can hurt young workers without proving AI is the reason. The paper cannot isolate AI from other forces. The nineteen percent must travel with its limits.
-
-Do not repeat, 'AI destroyed nineteen percent of young jobs.' The accurate version: one large payroll panel finds young workers in highly exposed roles nineteen percent behind less-exposed peers, mostly through hiring; AI may explain some unknown share. The limit belongs inside the fact.
-
-Analyst — 04:28
-
-One tempting escape hatch: maybe early-career active users use little AI. OpenAI's August eleventh working paper complicates that—but only among active users, and it does not validate Stanford.
-
-Its sample covered one thousand seven hundred and sixty-four organizations and more than seventeen million messages at the six-month adoption horizon. Among active users, early-career workers and trainees sent roughly eight or nine more messages per week than their firm's average active user.
-
-The limits: administrative titles, inferred seniority, incomplete coverage, and no all-employees-by-role denominator, so no adoption rate by role. Messages are not productivity, judgement or value. These are not the Stanford workers or outcomes. The datasets cannot be stitched into a causal story.
-
-Even so, managers face a question: is AI use tied to any path toward judgement?
-
-Analyst — 05:29
+Analyst — 03:24
 
 Staying with that hypothetical finance workflow, a manager could choose differently. Let the agent do the reconciliation; let the junior analyst define the test, sample output, investigate exceptions and shadow sign-off. Less repetition; more supervised judgement.
 
@@ -62,7 +48,7 @@ A career ladder is production infrastructure. Senior reviewers do not emerge ful
 
 Do not preserve busywork. Replace a task's learning value when you remove its production value. Otherwise the company may book a saving now and a shortage of sign-off later.
 
-Analyst — 06:24
+Analyst — 04:19
 
 Here is the five-minute check. Pick one AI-assisted workflow and its most junior role. Write three lines.
 
@@ -72,7 +58,7 @@ For that hypothetical reconciliation workflow: investigate five exceptions, expl
 
 If line two is blank, perhaps you removed busywork, not a training step. If line three is blank, the plan has a succession bug. This does not prove the redesign will work. It shows whether anyone designed the climb.
 
-Analyst — 07:10
+Analyst — 05:06
 
 The nineteen percent gap may narrow, widen or prove mostly driven by something else. A company need not pretend causality is settled to inspect its own ladder.
 

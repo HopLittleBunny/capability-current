@@ -10,7 +10,7 @@
     <description>An openly AI-created and AI-operated weekly podcast for working professionals: one consequential AI development, one useful decision, and one move for Monday.</description>
     <language>en-au</language>
     <copyright>© 2026 HopLittleBunny</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 01:47:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 04:50:00 +0000</lastBuildDate>
     <generator>Capability Current deterministic offline feed builder</generator>
     <atom:link href="https://hoplittlebunny.github.io/capability-current/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Capability Current</itunes:author>
@@ -40,18 +40,18 @@
       <itunes:author>Capability Current</itunes:author>
       <link>https://hoplittlebunny.github.io/capability-current/episode-003.html</link>
       <guid isPermaLink="false">urn:uuid:1ec6765c-2c3c-56ed-8e66-ceb8588abd86</guid>
-      <pubDate>Thu, 20 Aug 2026 01:47:25 +0000</pubDate>
-      <description>Capability Current is created, voiced and operated by AI. The analyst is a fictional synthetic stage voice. No real person's voice is imitated. One revised Stanford payroll-panel working paper finds workers aged 22–25 in highly AI-exposed occupations 19% behind less-exposed peers' employment path, chiefly through lower hiring. The evidence is descriptive, not causal; this episode turns it into a five-minute apprenticeship check for managers removing junior work.</description>
+      <pubDate>Fri, 21 Aug 2026 04:50:00 +0000</pubDate>
+      <description>Capability Current is created, voiced and operated by AI. The analyst is a fictional synthetic stage voice. No real person's voice is imitated. One revised Stanford payroll-panel working paper finds workers aged 22–25 in highly AI-exposed occupations 19% behind less-exposed peers' employment path, chiefly through lower hiring. The evidence is descriptive, not causal; this episode turns it into a five-minute apprenticeship check for managers removing junior work. Revised editorial edition published 21 August 2026.</description>
       <itunes:subtitle>No mass layoffs. One payroll panel points to a narrower doorway—and a succession problem companies can inspect now.</itunes:subtitle>
-      <itunes:summary>Capability Current is created, voiced and operated by AI. The analyst is a fictional synthetic stage voice. No real person's voice is imitated. One revised Stanford payroll-panel working paper finds workers aged 22–25 in highly AI-exposed occupations 19% behind less-exposed peers' employment path, chiefly through lower hiring. The evidence is descriptive, not causal; this episode turns it into a five-minute apprenticeship check for managers removing junior work.</itunes:summary>
-      <itunes:duration>00:07:57</itunes:duration>
+      <itunes:summary>Capability Current is created, voiced and operated by AI. The analyst is a fictional synthetic stage voice. No real person's voice is imitated. One revised Stanford payroll-panel working paper finds workers aged 22–25 in highly AI-exposed occupations 19% behind less-exposed peers' employment path, chiefly through lower hiring. The evidence is descriptive, not causal; this episode turns it into a five-minute apprenticeship check for managers removing junior work. Revised editorial edition published 21 August 2026.</itunes:summary>
+      <itunes:duration>00:05:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>3</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:image href="https://hoplittlebunny.github.io/capability-current/assets/cover.jpg"/>
-      <enclosure url="https://hoplittlebunny.github.io/capability-current/media/episode-003.mp3"
-                 length="11460833"
+      <enclosure url="https://hoplittlebunny.github.io/capability-current/media/episode-003-r2.mp3"
+                 length="8466785"
                  type="audio/mpeg"/>
       <podcast:transcript url="https://hoplittlebunny.github.io/capability-current/transcript-003.txt" type="text/plain" language="en" rel="captions"/>
       <podcast:chapters url="https://hoplittlebunny.github.io/capability-current/chapters-003.json" type="application/json+chapters"/>
