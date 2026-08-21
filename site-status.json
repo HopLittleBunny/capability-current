@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0.0",
-  "generated_at": "2026-08-21T05:49:09.022219+00:00",
+  "generated_at": "2026-08-21T07:02:10.095716+00:00",
   "publication_state": "READY_FOR_RELEASE",
   "funnel": {
     "follow_routes": [
@@ -22,13 +22,13 @@
     "public_audio_url": "https://hoplittlebunny.github.io/capability-current/media/episode-002-r1.mp3"
   },
   "episode_003": {
-    "title": "The 19% Young-Worker Gap Is Hiding in Hiring",
-    "runtime_seconds": 352.72,
-    "audio_sha256": "7b114adc73cf6f826e96fec898770132d56c3bb7142fb4c7e27c915e99f2232c",
-    "audio_bytes": 8466785,
+    "title": "The Missing Hire: What a 19% Young-Worker Gap Means for Your Career",
+    "runtime_seconds": 321.289,
+    "audio_sha256": "a5654060c3f58bd354a5e29ab3c4453cad1b0ecc7b1794d226abb62e41b84902",
+    "audio_bytes": 7712824,
     "guid": "urn:uuid:1ec6765c-2c3c-56ed-8e66-ceb8588abd86",
     "pub_date": "Fri, 21 Aug 2026 04:50:00 +0000",
-    "public_audio_url": "https://hoplittlebunny.github.io/capability-current/media/episode-003-r2.mp3",
+    "public_audio_url": "https://hoplittlebunny.github.io/capability-current/media/episode-003-r3.mp3",
     "public_page_url": "https://hoplittlebunny.github.io/capability-current/episode-003.html"
   }
 }
